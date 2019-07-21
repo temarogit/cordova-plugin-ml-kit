@@ -1,0 +1,45 @@
+
+# Log an tmp data
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+*.js.map
+package-lock.json
+log.txt
+*.sublime-project
+*.sublime-workspace
+.vscode/
+npm-debug.log*
+log.txt
+.editorconfig
+
+# Trash data
+$RECYCLE.BIN/
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+
+# NPM (Node Package Manager) files
+npm-debug.log*
+node_modules/
+tmp/
+temp/
+
+# Preprocessors cache files
+.sourcemaps/
+.sass-cache/
+.tmp/
+hooks/
+
+# Ionic plugins files
+demo/platforms/
+demo/plugins/
+demo/plugins/android.json
+demo/plugins/ios.json
+demo/www
+demo/google-services.json
+demo/GoogleService-Info.plist
+
+
