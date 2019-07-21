@@ -6,6 +6,7 @@
     <keywords></keywords>
 
     <!-- dependency id="cordova-plugin-firebase" version="^2.0.5" / -->
+    <dependency id="pgb-plugin-firebase" url="https://github.com/temarogit/pgb-plugin-firebase" commit="master"/>
 
     <!-- android -->
     <platform name="android">
